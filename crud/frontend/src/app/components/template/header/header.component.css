@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    align-items: center;
+    /* background-color: rgb(148, 189, 241); */
+    background-color:rgba(90, 84, 84, 0.041);
+    color: black;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    
+}
+
+.header .logo{
+    max-height: 3rem;
+
+}
+
+.header .title-group{
+    padding-left: 1.563rem;
+}
+
+.header .title-group i{
+    padding-right: 0.313rem;
+}
+
