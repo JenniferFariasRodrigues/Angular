@@ -19,6 +19,6 @@ body {
 }
 
 .productColor {
-    color: black;
-    background-color: #FFFFFF;
+    background-color: #FFFFFF !important;
+    color: black !important;
 }
