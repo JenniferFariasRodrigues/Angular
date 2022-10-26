@@ -1,4 +1,15 @@
-    .productColor {
+    .productColorButton {
         color: black;
-        background-color: #FFFFFF;
+        /* background-color: #FFFFFF; */
+        background-color: #63a0da!important;
+    }
+    
+    button {
+        margin-bottom: 1.875rem;
+    }
+    
+    productColorAppProduct {
+        color: black;
+        /* background-color: #FFFFFF; */
+        background-color: black;
     }
