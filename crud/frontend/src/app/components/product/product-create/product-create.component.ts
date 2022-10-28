@@ -11,7 +11,7 @@ export class ProductCreateComponent implements OnInit {
 //  propLegal = "qualquer";
   product: Product ={
   name: '',
-  price: null
+  price: 1.45
   }
   constructor(private productService: ProductService,
     private router :Router) { }
