@@ -6,3 +6,8 @@ form {
 button {
     margin: 1.25rem 0.938rem 0rem 0rem;
 }
+
+.atualizarButtonColor {
+    color: white;
+    background-color: rgb(26, 26, 155);
+}
