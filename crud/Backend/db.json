@@ -1,28 +1,29 @@
 {
-    "products": [{
-            "id": 1,
-            "name": "Caneta Preta Bic",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebook Mac Pro",
-            "price": 12000.89
-        },
-        {
-            "id": 3,
-            "name": "Samsung S20+",
-            "price": 500.89
-        },
-        {
-            "name": "veio do fromulario",
-            "price": "9.99",
-            "id": 4
-        },
-        {
-            "name": "Lápis preto",
-            "price": 2.50,
-            "id": 5
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Preta Mruel",
+      "price": "10.79"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "15000.98"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "12500.00"
+    },
+    {
+      "id": 4,
+      "name": "veio do fromulario",
+      "price": 9.99
+    },
+    {
+      "id": 5,
+      "name": "Lápis preto comum ",
+      "price": "1.50"
+    }
+  ]
 }
