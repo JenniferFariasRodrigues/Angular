@@ -1,6 +1,7 @@
 form {
     display: flex;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 button {
@@ -10,4 +11,9 @@ button {
 .atualizarButtonColor {
     color: white;
     background-color: rgb(26, 26, 155);
+}
+
+.backgroundColor {
+    background-color: white;
+    color: black;
 }
